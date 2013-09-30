@@ -1,3 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Morse Translator</string>
+
+    <string name="app_name">Lab3</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">Save Note</string>
+    <string name="title_field">File name: </string>
+    <string name="deleteDesc">Delete file</string>
+    <string name="vibrate_button_text">Vibrate</string>
+    <string name="flash_button_text">Flash</string>
+    <string name="go_button_text">Go!</string>
+    <string name="message_hint">Message</string>
+
 </resources>
